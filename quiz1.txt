@@ -1,0 +1,31 @@
+kadirhan çekmez
+170401039
+
+
+quiz 1–sympy
+
+SymPy kütüphanesi : Sembolik matematik kütüphanesidir.
+
+subs() : Bir degişkeni başka bir degişken veya değerle değistirir.
+
+expand() : Sadeleştirme işlevidir.
+
+sqrt () : Fonksiyon ifadenin kökünü alır.
+
+syp.plot() : Grafik için kullanılır.
+
+exp() : Üstsel değerinin hesaplanmasını sağlar.
+
+factor() : Çarpanlarına ayırır.
+
+pprint() : Pretty yazıcıya erişilir.
+
+SymPy library içinde matplotlib.pyplot : Fonksiyon.
+
+import sympy.plotting as syp : işlevini çizer.
+
+plt.show() : Çizim modülündeki grafik.
+
+import sympy as sym : Sympy isimli kütüphaneyi sym isimli olarak kulanmak üzere import etme .
+
+from sympy import Symbol : SymPy kütüphanesinden Symbol ü import etme.
